@@ -1,5 +1,3 @@
-#include <HCSR04.h>
-
 #define LED 11
 #define POT A5
 #define MAX_FREQ 5000
