@@ -1,0 +1,5 @@
+# This is a comment.  Ignore all files in a directory:  
+build/
+# Ignore all files with a specific extension:  
+*.log
+3. Set up and save the .gitignore file BEFORE your first commit.  
